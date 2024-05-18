@@ -12,11 +12,12 @@ AtCoder_Projects
 |   └─ Python
 ```
 
-
 ## Log
 
 - [AtCoder Beginners Selection](https://atcoder.jp/contests/abs/tasks)
-    - Python
-        - [PracticeA: Welcome to AtCoder](https://atcoder.jp/contests/abs/submissions/52937337), 100/100 AC, 2024/04/29<br>
-        - [ABC086A: Product](https://atcoder.jp/contests/abs/submissions/52937769), 100/100 AC, 2024/04/29<br>
-        - [ABC081A: Placing Marbles](https://atcoder.jp/contests/abs/submissions/52938170), 100/100 AC, 2024/04/29<br>
+  - Python
+    - [PracticeA - Welcome to AtCoder](https://atcoder.jp/contests/abs/submissions/52937337), 100/100 AC, 2024/04/29<br>
+    - [ABC086A - Product](https://atcoder.jp/contests/abs/submissions/52937769), 100/100 AC, 2024/04/29<br>
+    - [ABC081A - Placing Marbles](https://atcoder.jp/contests/abs/submissions/52938170), 100/100 AC, 2024/04/29<br>
+    - [ABC081B - Shift only](https://atcoder.jp/contests/abs/submissions/53570167), 200/200 AC, 2024/05/18<br>
+    - [ABC087B - Coins](https://atcoder.jp/contests/abs/submissions/53571423), 200/200 AC, 2024/05/18<br>
